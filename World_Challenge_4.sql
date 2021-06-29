@@ -1,0 +1,1 @@
+SELECT city.Name FROM city JOIN country ON city.ID = country.Capital WHERE country.Name = 'Spain'; 
