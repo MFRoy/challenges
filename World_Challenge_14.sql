@@ -1,0 +1,1 @@
+SELECT DISTINCT Language FROM countrylanguage;

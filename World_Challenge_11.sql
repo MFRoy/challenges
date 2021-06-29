@@ -1,0 +1,1 @@
+SELECT Name FROM city WHERE Countrycode = 'JPN' ORDER BY Population DESC LIMIT 5;

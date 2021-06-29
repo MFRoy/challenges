@@ -1,0 +1,1 @@
+SELECT Name,Population/SurfaceArea AS Ratio FROM country WHERE population!= 0 ORDER BY Ratio ASC LIMIT 10;
