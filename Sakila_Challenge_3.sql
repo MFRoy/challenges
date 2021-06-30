@@ -1,0 +1,1 @@
+SELECT CONCAT(first_name, " ",last_name) AS TAKEN FROM actor WHERE last_name = 'Neeson' ;
