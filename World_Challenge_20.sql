@@ -1,0 +1,2 @@
+SELECT COUNT(IndepYear) FROM country
+WHERE IndepYear IS NOT NULL;

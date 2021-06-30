@@ -1,0 +1,1 @@
+SELECT COUNT(city.Name) FROM city JOIN country ON city.CountryCode=country.code WHERE CountryCode= 'CHN';

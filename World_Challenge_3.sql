@@ -1,0 +1,1 @@
+SELECT lifeexpectancy, name FROM country WHERE lifeexpectancy IS NOT NULL ORDER BY lifeexpectancy DESC limit 5 
