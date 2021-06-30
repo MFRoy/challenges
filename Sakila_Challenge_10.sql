@@ -1,0 +1,1 @@
+SELECT * FROM film WHERE special_features LIKE "%Deleted Scenes%";
